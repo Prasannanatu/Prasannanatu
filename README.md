@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Prasanna 
 ### <h2> About me 🤔 ###
-
 ##
 I am a graduate student pursuing a Master of Science in Robotics at Worcester Polytechnic Institute. I completed my Bachelor's in Mechanical Engineering from The University of Mumbai. My passion lies in fostering innovation, sustainability, and bringing research to life. I strongly believe that predicting the future is all about building it and that big thinking can turn possibilities into realities.  
   
