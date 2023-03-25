@@ -25,4 +25,4 @@ I am a graduate student pursuing a Master of Science in Robotics at Worcester Po
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &ensp;</a>
 <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/928/416/png-transparent-solidworks-simulation-logo-computer-aided-design-solidworks-corp-technology-electronics-text-logo-thumbnail.png" alt="solidworks" width="40" height="40"/> &ensp;</a>
 </p>
-![image](https://user-images.githubusercontent.com/112508555/227726270-133d99b2-0577-4d83-9f4f-e9b27b0d6596.png)
+
