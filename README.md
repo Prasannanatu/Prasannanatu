@@ -22,5 +22,15 @@ I am a graduate student pursuing a Master of Science in Robotics at Worcester Po
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/matplotlib/images/matplotlib-tutorial.png" alt="matplotlib" width="40" height="40"/>&ensp; </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ROS" width="70" height="40"/> &ensp;</a>
 <a href="https://gazebosim.org/" target="_blank" rel="noreferrer"> <img align="bottom" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Gazebo_logo_without_text.svg/300px-Gazebo_logo_without_text.svg.png?20150715002113" alt="Gazebo" width="60" height="50"/>&ensp; </a>
-![image](https://user-images.githubusercontent.com/112508555/227726230-361a55ba-20ca-4aba-85b7-39a1ad152c59.png)
+![image](https://user-images.githubusercontent.com/112508555/227726230-361a55ba-20ca-4aba-85b7-39a1ad152c59.png)<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> &ensp;</a>
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/928/416/png-transparent-solidworks-simulation-logo-computer-aided-design-solidworks-corp-technology-electronics-text-logo-thumbnail.png" alt="solidworks" width="40" height="40"/> &ensp;</a>
+</p>
+
+
+<h2>Find me around the web 🌎:</h2>
+
+<a href="mailto:ninad.harish@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://linkedin.com/in/ninadharish">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![image](https://user-images.githubusercontent.com/112508555/227726246-ab4a70c0-9ccc-48bf-badd-6d4b404e93c0.png)
+
 
