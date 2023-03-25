@@ -18,5 +18,6 @@ I am a graduate student pursuing a Master of Science in Robotics at Worcester Po
 
   ### Connect with me 🌎 :
 <a href="mailto:natu.prasanna02@gmail.com">![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href=https://www.linkedin.com/in/prasanna-natu-940778200/
+<a href="https://www.linkedin.com/in/prasanna-natu-940778200/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>![image](https://user-images.githubusercontent.com/112508555/227726934-c5934d15-2880-4ca3-8f3b-52abd5bd69d7.png)
+
 
