@@ -2,11 +2,11 @@
 
 ### <h2> About me:man::</h2> ###
 <!--
-I am a graduate student pursuing a Master of Science in Robotics at Worcester Polytechnic Institute. I completed my Bachelor's in Mechanical Engineering from The University of Mumbai. 
-My passion lies in fostering innovation, sustainability, and bringing research to life. I strongly believe that predicting the future is all about building it and that big thinking can turn possibilities into realities. 
-The transition from a mechanical background to robotics has been challenging, but the reward has been worth the effort.
-My core education includes Perception, Machine Learning, Controls as well as Deep Learning. 
-Outside of my studies, my hobbies include playing cricket, hiking, playing Indian classical instruments, and solving random math problems.    
+<h3> I am a graduate student pursuing a Master of Science in Robotics at Worcester Polytechnic Institute. I completed my Bachelor's in Mechanical Engineering from The University of Mumbai. <h3> 
+<h4> My passion lies in fostering innovation, sustainability, and bringing research to life. I strongly believe that predicting the future is all about building it and that big thinking can turn possibilities into realities. <h4> 
+<h5> The transition from a mechanical background to robotics has been challenging, but the reward has been worth the effort.
+My core education includes Perception, Machine Learning, Controls as well as Deep Learning.<h5> 
+<h6> Outside of my studies, my hobbies include playing cricket, hiking, playing Indian classical instruments, and solving random math problems. <h6>    
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
