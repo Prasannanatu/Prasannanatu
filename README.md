@@ -8,7 +8,10 @@ I am a graduate student pursuing a Master of Science in Robotics at Worcester Po
   Outside of my studies, my hobbies include playing cricket, hiking, playing Indian classical instruments, and solving random math problems.    
   
 - 🔭 I’m currently working on a new Computer Vision Project - Einstein Vision 🤖 🚗
-- 🌱 I’m currently learning Instance Segmentation and Monocular Depth Estimation 🌴 🚴‍♂️ 🚦 🚗 🏍️
+- 🌱 I’m currently learning Instance Segmentation and Monocular Depth Estimation 🌴 🚴‍♂️ 🚦 🚗 🏍️ 🚫
 -  I’m looking for help with finding an internship 🤖 👨‍💼
 - 📫 How to reach me: 📧 pvnatu@wpi.edu OR 📲 +1 (508)-502-0284
 -->
+
+### Languages and Tools Used 💻 :
+  
